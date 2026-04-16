@@ -1,71 +1,74 @@
 <div align="center">
 
-# Hridam Biswas
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Hridam%20Biswas&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=IEEE%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20KIIT%20University&descAlignY=55&descColor=a9b1d6" />
 
-**IEEE Researcher · ML Engineer · KIIT University**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hridambiswas.github.io-0ea5e9?style=flat-square)](https://hridambiswas.github.io)
-[![Email](https://img.shields.io/badge/Email-hridambiswas2005%40gmail.com-ea4335?style=flat-square)](mailto:hridambiswas2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hridambiswas.github.io-70a5fd?style=for-the-badge&logo=githubpages&logoColor=white)](https://hridambiswas.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hridam%20Biswas-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridam-biswas-22b0392a5/)
+[![Email](https://img.shields.io/badge/Email-hridambiswas2005@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hridambiswas2005@gmail.com)
 
 </div>
 
 ---
 
-## About
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridambiswas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-I build production ML systems — from clinical decision support to autonomous trading bots. My work sits at the intersection of statistical rigor and real-world deployment constraints.
+### I ship ML that runs in production, not just notebooks.
 
-Currently focused on:
-- **Statistical arbitrage** on NSE (pairs trading, z-score mean reversion)
-- **Clinical ML** — multi-label disease detection with causal structure
-- **Autonomous perception** — V2V collaborative sensing for urban safety
+Currently building an **autonomous stat-arb bot** live on NSE markets and doing **clinical ML research** on correlated multi-disease detection.
+
+- Autonomous systems that run 24/7 with real money on the line
+- Statistical rigor first — if the math doesn't hold, the code doesn't ship
+- Final year @ KIIT · IEEE Student Researcher
+
+<br clear="right"/>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hridambiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## Projects
 
-### [Iron-Sentry](https://github.com/Hridambiswas/iron-sentry) — Autonomous NSE Pairs Trading Bot
-Fully autonomous stat-arb system monitoring NSE equity pairs 24/7. OLS hedge ratio on log returns, z-score entry/exit with ghost-order guard, Telegram alerts, and paper trading mode for live validation before capital deployment.
-
-`Python` · `asyncio` · `yfinance` · `SQLite WAL` · `Telegram Bot API`
-
----
-
-### [ComorbidNet](https://github.com/Hridambiswas/comorbidnet) — Correlated Multi-Disease Detection
-Detects T2D, Hypertension, Metabolic Syndrome, and CKD simultaneously using Classifier Chains that propagate disease predictions as features — capturing the metabolic cascade that independent models miss. SHAP interaction values explain per-disease attribution.
-
-`XGBoost` · `Classifier Chains` · `SHAP` · `VIF Analysis` · `Clinical ML`
-
----
-
-### [CreditSense](https://github.com/Hridambiswas/creditsense) — Real-Time Credit Risk API
-Ensemble ML credit scorer (Logistic Regression + Random Forest + Gradient Boosting) served as a FastAPI backend. Trained on 23K+ real loan records. One-click deploy on Render.
-
-`FastAPI` · `scikit-learn` · `VotingClassifier` · `Render` · `Python`
-
----
-
-### [V2V Perception Pipeline](https://github.com/Hridambiswas/v2v-perception) — HACK4IMPACT Track 2
-Three-stage autonomous driving pipeline: DeepLabV3 semantic segmentation → XOR delta zone detection → 48K-param decision CNN. Designed for vehicle-to-vehicle hazard sharing in occluded urban environments.
-
-`PyTorch` · `DeepLabV3` · `OpenCV` · `SQLite` · `Computer Vision`
+| Project | What it does | Result |
+|---|---|---|
+| [**Iron-Sentry**](https://github.com/Hridambiswas/iron-sentry) | Autonomous NSE pairs trading bot — OLS hedge ratio, z-score mean reversion, ghost-order guard, Telegram alerts | Live paper trading, targeting 15–20% monthly return |
+| [**ComorbidNet**](https://github.com/Hridambiswas/comorbidnet) | Detects T2D + HTN + MetS + CKD simultaneously via Classifier Chains — captures the metabolic cascade independent models miss | +0.03 AUC gain, Hamming loss 0.09 → 0.07 |
+| [**CreditSense**](https://github.com/Hridambiswas/creditsense) | Real-time credit risk API — LR + RF + GBM ensemble, FastAPI backend, one-click Render deploy | Trained on 23K+ real loan records |
+| [**V2V Perception**](https://github.com/Hridambiswas/v2v-perception) | V2V collaborative hazard detection — DeepLabV3 segmentation → XOR delta zones → 48K CNN decision model | HACK4IMPACT Track 2 submission |
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,sqlite,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ```
-Languages   Python · SQL
-ML/DL       XGBoost · scikit-learn · PyTorch · SHAP
-Finance     yfinance · NSE · Statistical Arbitrage
-Backend     FastAPI · asyncio · SQLite
-DevOps      GitHub Actions · Render · Telegram Bot API
+Statistical Arbitrage · Classifier Chains · SHAP · VIF Analysis
+XGBoost · asyncio · yfinance · DeepLabV3 · OpenCV
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building things that work in production, not just notebooks.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=100&section=footer" />
 
 </div>
