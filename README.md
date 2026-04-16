@@ -31,21 +31,21 @@ Fully autonomous stat-arb system monitoring NSE equity pairs 24/7. OLS hedge rat
 
 ---
 
-### [ComorbidNet](https://github.com/Hridambiswas/hello) — Correlated Multi-Disease Detection
+### [ComorbidNet](https://github.com/Hridambiswas/comorbidnet) — Correlated Multi-Disease Detection
 Detects T2D, Hypertension, Metabolic Syndrome, and CKD simultaneously using Classifier Chains that propagate disease predictions as features — capturing the metabolic cascade that independent models miss. SHAP interaction values explain per-disease attribution.
 
 `XGBoost` · `Classifier Chains` · `SHAP` · `VIF Analysis` · `Clinical ML`
 
 ---
 
-### [CreditSense](https://github.com/Hridambiswas/creditsense-backend) — Real-Time Credit Risk API
+### [CreditSense](https://github.com/Hridambiswas/creditsense) — Real-Time Credit Risk API
 Ensemble ML credit scorer (Logistic Regression + Random Forest + Gradient Boosting) served as a FastAPI backend. Trained on 23K+ real loan records. One-click deploy on Render.
 
 `FastAPI` · `scikit-learn` · `VotingClassifier` · `Render` · `Python`
 
 ---
 
-### [V2V Perception Pipeline](https://github.com/Hridambiswas/Hack4IMPACTTrack2-404_Error_Found) — HACK4IMPACT Track 2
+### [V2V Perception Pipeline](https://github.com/Hridambiswas/v2v-perception) — HACK4IMPACT Track 2
 Three-stage autonomous driving pipeline: DeepLabV3 semantic segmentation → XOR delta zone detection → 48K-param decision CNN. Designed for vehicle-to-vehicle hazard sharing in occluded urban environments.
 
 `PyTorch` · `DeepLabV3` · `OpenCV` · `SQLite` · `Computer Vision`
