@@ -24,23 +24,13 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 ---
 
-## Activity
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridambiswas&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=c0caf5&line=70a5fd&point=bb9af7)](https://github.com/Hridambiswas)
-
-</div>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hridambiswas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
