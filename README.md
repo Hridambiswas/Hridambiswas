@@ -51,7 +51,9 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,sqlite,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,sqlite,git,github&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=java,c,aws,azure,gcp,numpy,pandas,vscode&theme=dark&perline=8" />
 
 </div>
 
@@ -60,8 +62,8 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 <div align="center">
 
 ```
-Statistical Arbitrage · Classifier Chains · SHAP · VIF Analysis
-XGBoost · asyncio · yfinance · DeepLabV3 · OpenCV
+Statistical Arbitrage · Classifier Chains · SHAP · XGBoost
+asyncio · OpenCV · DeepLabV3 · NLP · Transformers · Power BI
 ```
 
 </div>
