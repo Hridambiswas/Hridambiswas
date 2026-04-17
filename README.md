@@ -24,12 +24,23 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 ---
 
-## Stats
+## Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hridambiswas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Hridam%27s+GitHub+Stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridambiswas&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=c0caf5&line=70a5fd&point=bb9af7)](https://github.com/Hridambiswas)
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hridambiswas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" />
 
 </div>
 
