@@ -53,7 +53,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,sqlite,git,github&theme=dark&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=java,c,aws,azure,gcp,numpy,pandas,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,c,aws,azure,gcp,opencv,jupyter,vscode&theme=dark&perline=8" />
 
 </div>
 
