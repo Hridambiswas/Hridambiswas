@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridambiswas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridambiswas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 ### I ship ML that runs in production, not just notebooks.
 
@@ -28,7 +28,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hridambiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hridambiswas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 <img height="160" src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" />
 
 </div>
