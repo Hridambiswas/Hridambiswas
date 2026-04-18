@@ -66,8 +66,8 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 <div align="center">
 
 ```
-Statistical Arbitrage · Classifier Chains · SHAP · XGBoost
-asyncio · OpenCV · DeepLabV3 · NLP · Transformers · Power BI
+Statistical Arbitrage · Classifier Chains · SHAP · XGBoost · OpenCV
+asyncio · DeepLabV3 · NLP · Transformers · Power BI · Grafana · Redis
 ```
 
 </div>
