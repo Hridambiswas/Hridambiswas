@@ -57,7 +57,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cpp,kubernetes,postgres,redis&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,anaconda,bash,cpp,kubernetes,postgres,redis,grafana&theme=dark&perline=8" />
 
 </div>
 
