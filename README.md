@@ -55,6 +55,10 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 <img src="https://skillicons.dev/icons?i=java,c,aws,azure,gcp,linux,mysql,vscode&theme=dark&perline=8" />
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=8" />
+
 </div>
 
 <br/>
