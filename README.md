@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hridambiswas&theme=tokyonight" />
+<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hridambiswas&theme=tokyonight&utcOffset=5.5" />
 
 ### I ship ML that runs in production, not just notebooks.
 
@@ -31,7 +31,6 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-<img src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
