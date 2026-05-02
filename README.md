@@ -31,6 +31,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Hridambiswas/Hridambiswas/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+<img src="https://streak-stats.demolab.com?user=Hridambiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
