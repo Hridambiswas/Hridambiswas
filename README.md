@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridambiswas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hridambiswas&theme=tokyonight" />
 
 ### I ship ML that runs in production, not just notebooks.
 
