@@ -40,7 +40,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 | Project | What it does | Result |
 |---|---|---|
-| [**Iron-Sentry**](https://github.com/Hridambiswas/iron-sentry) | Autonomous NSE pairs trading bot — OLS hedge ratio, z-score mean reversion, ghost-order guard, Telegram alerts | Live paper trading, targeting 15–20% monthly return |
+| [**Iron-Sentry**](https://github.com/Hridambiswas/iron-sentry) | Autonomous NSE pairs trading bot — OLS hedge ratio, z-score mean reversion, ghost-order guard, Telegram alerts | ≥1 trade/day guaranteed, live paper trading |
 | [**ComorbidNet**](https://github.com/Hridambiswas/comorbidnet) | Detects T2D + HTN + MetS + CKD simultaneously via Classifier Chains — captures the metabolic cascade independent models miss | +0.03 AUC gain, Hamming loss 0.09 → 0.07 |
 | [**CreditSense**](https://github.com/Hridambiswas/creditsense) | Real-time credit risk API — LR + RF + GBM ensemble, FastAPI backend, one-click Render deploy | Trained on 23K+ real loan records |
 | [**V2V Perception**](https://github.com/Hridambiswas/v2v-perception) | V2V collaborative hazard detection — DeepLabV3 segmentation → XOR delta zones → 48K CNN decision model | HACK4IMPACT Track 2 submission |
