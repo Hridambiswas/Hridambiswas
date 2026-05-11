@@ -14,9 +14,9 @@
 
 ### I ship ML that runs in production, not just notebooks.
 
-Currently building an **autonomous stat-arb bot** live on NSE markets and doing **clinical ML research** on correlated multi-disease detection.
+Currently building **[Helios](https://github.com/Hridambiswas/helios)** — a full-stack agentic RAG system with LangGraph, ChromaDB & per-token WebSocket streaming — and **[Iron-Sentry](https://github.com/Hridambiswas/iron-sentry)**, an autonomous stat-arb bot live on NSE markets.
 
-- Autonomous systems that run 24/7 with real money on the line
+- Production systems that run 24/7 — real money, real users
 - Statistical rigor first — if the math doesn't hold, the code doesn't ship
 - Final year @ KIIT · IEEE Student Researcher
 
@@ -40,6 +40,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 
 | Project | What it does | Result |
 |---|---|---|
+| [**Helios**](https://github.com/Hridambiswas/helios) | Agentic RAG assistant — LangGraph pipeline, ChromaDB + BM25 hybrid retrieval, per-token WebSocket streaming, FastAPI + React, full CI/CD on EC2 + Vercel | Live at [helios-hridam.ddns.net](https://frontend-omega-blush-87.vercel.app) · critic-gated retry loop · 70-commit feature rollout |
 | [**Iron-Sentry**](https://github.com/Hridambiswas/iron-sentry) | Autonomous NSE pairs trading bot — OLS hedge ratio, z-score mean reversion, ghost-order guard, Telegram alerts | ≥1 trade/day guaranteed, live paper trading |
 | [**ComorbidNet**](https://github.com/Hridambiswas/comorbidnet) | Detects T2D + HTN + MetS + CKD simultaneously via Classifier Chains — captures the metabolic cascade independent models miss | +0.03 AUC gain, Hamming loss 0.09 → 0.07 |
 | [**CreditSense**](https://github.com/Hridambiswas/creditsense) | Real-time credit risk API — LR + RF + GBM ensemble, FastAPI backend, one-click Render deploy | Trained on 23K+ real loan records |
@@ -68,6 +69,7 @@ Currently building an **autonomous stat-arb bot** live on NSE markets and doing 
 ```
 Statistical Arbitrage · Classifier Chains · SHAP · XGBoost · OpenCV
 asyncio · DeepLabV3 · NLP · Transformers · Power BI · Grafana · Redis
+LangGraph · ChromaDB · LangChain · WebSocket Streaming · RAG
 ```
 
 </div>
