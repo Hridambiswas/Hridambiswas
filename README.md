@@ -40,7 +40,7 @@ Currently building **[Helios](https://github.com/Hridambiswas/helios)** — a fu
 
 | Project | What it does | Result |
 |---|---|---|
-| [**Helios**](https://github.com/Hridambiswas/helios) | Agentic RAG assistant — LangGraph pipeline, ChromaDB + BM25 hybrid retrieval, per-token WebSocket streaming, FastAPI + React, full CI/CD on EC2 + Vercel | Live at [helios-hridam.ddns.net](https://frontend-omega-blush-87.vercel.app) · critic-gated retry loop · 70-commit feature rollout |
+| [**Helios**](https://github.com/Hridambiswas/helios) | Agentic RAG assistant — LangGraph pipeline, ChromaDB + BM25 hybrid retrieval, per-token WebSocket streaming, FastAPI + React, full CI/CD on EC2 + Vercel | Live at [helios-hridam.ddns.net](https://helios-hridam.vercel.app) · critic-gated retry loop · 70-commit feature rollout |
 | [**Iron-Sentry**](https://github.com/Hridambiswas/iron-sentry) | Autonomous NSE pairs trading bot — OLS hedge ratio, z-score mean reversion, ghost-order guard, Telegram alerts | ≥1 trade/day guaranteed, live paper trading |
 | [**ComorbidNet**](https://github.com/Hridambiswas/comorbidnet) | Detects T2D + HTN + MetS + CKD simultaneously via Classifier Chains — captures the metabolic cascade independent models miss | +0.03 AUC gain, Hamming loss 0.09 → 0.07 |
 | [**CreditSense**](https://github.com/Hridambiswas/creditsense) | Real-time credit risk API — LR + RF + GBM ensemble, FastAPI backend, one-click Render deploy | Trained on 23K+ real loan records |
